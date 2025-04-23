@@ -2563,7 +2563,7 @@
   "14": {
     "Educação Física": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
@@ -2578,7 +2578,7 @@
     },
     "Física": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -2593,7 +2593,7 @@
     },
     "História": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
@@ -2623,7 +2623,7 @@
     },
     "Língua Portuguesa": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
@@ -2638,7 +2638,7 @@
     },
     "Matemática": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -2653,7 +2653,7 @@
     },
     "Projeto de Vida": {
       "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
@@ -2689,12 +2689,12 @@
         "-"
       ],
       "faltas": [
-        25,
+        "-",
         "-",
         "-",
         "-"
       ],
-      "faltas_acumuladas": 25
+      "faltas_acumuladas": "-"
     },
     "Gestão Financeira e Contabilidade": {
       "notas": [
@@ -2704,12 +2704,12 @@
         "-"
       ],
       "faltas": [
-        32,
+        "-",
         "-",
         "-",
         "-"
       ],
-      "faltas_acumuladas": 32
+      "faltas_acumuladas": "-"
     },
     "Inovação e Desenvolvimento de Negócios": {
       "notas": [
@@ -2719,7 +2719,7 @@
         "-"
       ],
       "faltas": [
-        27,
+        "-",
         "-",
         "-",
         "-"
@@ -2734,7 +2734,7 @@
         "-"
       ],
       "faltas": [
-        24,
+        "-",
         "-",
         "-",
         "-"
@@ -2749,7 +2749,7 @@
         "-"
       ],
       "faltas": [
-        25,
+        "-",
         "-",
         "-",
         "-"
