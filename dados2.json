@@ -1,0 +1,3154 @@
+{
+  "1": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "2": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "3": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "4": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "5": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "6": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "7": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "8": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "9": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "10": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "11": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "12": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        4,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "13": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "14": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "15": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        10,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        3,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  },
+  "16": {
+    "Educação Física": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Física": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "História": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        7,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão de Operações": {
+      "notas": [
+        "-",
+        8,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Gestão Financeira e Contabilidade": {
+      "notas": [
+        "-",
+        9,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        2,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Inovação e Desenvolvimento de Negócios": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Marketing Estratégico": {
+      "notas": [
+        "-",
+        5,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        1,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    },
+    "Projeto Multidisciplinar em Administração": {
+      "notas": [
+        "-",
+        6,
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        0,
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": 0
+    }
+  }
+}
